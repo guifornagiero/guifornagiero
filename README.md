@@ -7,7 +7,7 @@
 - 🏢 **Fullstack Developer** at @Softwillians IT Solutions
 - 🖥 **Software Engineer**
 - 📒 Learning **Software Architecture**
-- 🎈 Code is kinda fun!
+- 🎈 Coding is kinda fun!
 
 #### 💬 Languages
 - **Portuguese**: native
