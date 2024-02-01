@@ -5,8 +5,7 @@
 
 - 🏫 **Computer Science** studant at @FEI
 - 🏢 **Fullstack Developer** at @Softwillians IT Solutions
-- 🖥 **Software Engineer**
-- 📒 Learning **Software Architecture**
+- 📒 Studying **Java Spring Boot** and **Go**
 - 🎈 Coding is kinda fun!
 
 #### 💬 Languages
