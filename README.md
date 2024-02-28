@@ -3,8 +3,8 @@
 ### I'm Guilherme, and welcome to my GitHub Profile 😎
 💻 .NET / C# / JavaScript / React.js / Angular2+ / Node.js / Java / Go / Python / C / SQL / Docker
 
-- 🏫 **Computer Science** studant at @FEI
-- 🏢 **Fullstack Developer** at @Softwillians IT Solutions
+- 🏫 **Computer Science** student at @FEI
+- 🏢 **Fullstack Developer** at @CodeCycle
 - 📒 Studying **Java Spring Boot** and **Go**
 - 🎈 Coding is kinda fun!
 
