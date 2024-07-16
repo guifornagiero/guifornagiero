@@ -5,7 +5,6 @@
 
 - 🏫 **Computer Science** student at @FEI
 - 🏢 **Fullstack Developer** at @CodeCycle
-- 📒 Studying **Java Spring Boot** and **Go**
 - 🎈 Coding is kinda fun!
 
 #### 💬 Languages
