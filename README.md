@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### I'm Guilherme, and welcome to my GitHub Profile 😎
-💻 .NET / C# / JavaScript / React.js / Angular2+ / Node.js / Java / Go / Python / C / SQL / Docker
+💻 .NET / C# / React.js / Angular / JavaScript / TypeScript / AWS / Python
 
 - 🏫 **Computer Science** student at @FEI
-- 🏢 **Fullstack Developer** at @CodeCycle
+- 🏢 **Software Engineer** at @BTG Pactual
 - 🎈 Coding is kinda fun!
 
 #### 💬 Languages
